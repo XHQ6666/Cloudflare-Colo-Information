@@ -1,0 +1,1702 @@
+[
+    {
+        "colo": "AAE",
+        "region": "Annaba",
+        "country": "Algeria"
+    },
+    {
+        "colo": "ABJ",
+        "region": "Abidjan",
+        "country": "Ivory Coast"
+    },
+    {
+        "colo": "ABQ",
+        "region": "Albuquerque",
+        "country": "United States"
+    },
+    {
+        "colo": "ACC",
+        "region": "Accra",
+        "country": "Ghana"
+    },
+    {
+        "colo": "ADB",
+        "region": "Izmir",
+        "country": "Turkey"
+    },
+    {
+        "colo": "ADD",
+        "region": "Addis Ababa",
+        "country": "Ethiopia"
+    },
+    {
+        "colo": "ADL",
+        "region": "Adelaide",
+        "country": "Australia"
+    },
+    {
+        "colo": "AKL",
+        "region": "Auckland",
+        "country": "New Zealand"
+    },
+    {
+        "colo": "AKX",
+        "region": "Aktobe",
+        "country": "Kazakhstan"
+    },
+    {
+        "colo": "ALA",
+        "region": "Almaty",
+        "country": "Kazakhstan"
+    },
+    {
+        "colo": "ALG",
+        "region": "Algiers",
+        "country": "Algeria"
+    },
+    {
+        "colo": "AMD",
+        "region": "Ahmedabad",
+        "country": "India"
+    },
+    {
+        "colo": "AMM",
+        "region": "Amman",
+        "country": "Jordan"
+    },
+    {
+        "colo": "AMS",
+        "region": "Amsterdam",
+        "country": "Netherlands"
+    },
+    {
+        "colo": "ANC",
+        "region": "Anchorage",
+        "country": "United States"
+    },
+    {
+        "colo": "ARI",
+        "region": "Arica",
+        "country": "Chile"
+    },
+    {
+        "colo": "ARN",
+        "region": "Stockholm",
+        "country": "Sweden"
+    },
+    {
+        "colo": "ARU",
+        "region": "Aracatuba",
+        "country": "Brazil"
+    },
+    {
+        "colo": "ASK",
+        "region": "Yamoussoukro",
+        "country": "Ivory Coast"
+    },
+    {
+        "colo": "ASU",
+        "region": "Asunción",
+        "country": "Paraguay"
+    },
+    {
+        "colo": "ATH",
+        "region": "Athens",
+        "country": "Greece"
+    },
+    {
+        "colo": "ATL",
+        "region": "Atlanta",
+        "country": "United States"
+    },
+    {
+        "colo": "AUS",
+        "region": "Austin",
+        "country": "United States"
+    },
+    {
+        "colo": "BAH",
+        "region": "Manama",
+        "country": "Bahrain"
+    },
+    {
+        "colo": "BAQ",
+        "region": "Barranquilla",
+        "country": "Colombia"
+    },
+    {
+        "colo": "BCN",
+        "region": "Barcelona",
+        "country": "Spain"
+    },
+    {
+        "colo": "BEG",
+        "region": "Belgrade",
+        "country": "Serbia"
+    },
+    {
+        "colo": "BEL",
+        "region": "Belém",
+        "country": "Brazil"
+    },
+    {
+        "colo": "BEY",
+        "region": "Beirut",
+        "country": "Lebanon"
+    },
+    {
+        "colo": "BGI",
+        "region": "Bridgetown",
+        "country": "Barbados"
+    },
+    {
+        "colo": "BGR",
+        "region": "Bangor",
+        "country": "United States"
+    },
+    {
+        "colo": "BGW",
+        "region": "Baghdad",
+        "country": "Iraq"
+    },
+    {
+        "colo": "BHY",
+        "region": "Beihai",
+        "country": "China"
+    },
+    {
+        "colo": "BKK",
+        "region": "Bangkok",
+        "country": "Thailand"
+    },
+    {
+        "colo": "BLR",
+        "region": "Bangalore",
+        "country": "India"
+    },
+    {
+        "colo": "BNA",
+        "region": "Nashville",
+        "country": "United States"
+    },
+    {
+        "colo": "BNE",
+        "region": "Brisbane",
+        "country": "Australia"
+    },
+    {
+        "colo": "BNU",
+        "region": "Blumenau",
+        "country": "Brazil"
+    },
+    {
+        "colo": "BOD",
+        "region": "Bordeaux",
+        "country": "France"
+    },
+    {
+        "colo": "BOG",
+        "region": "Bogotá",
+        "country": "Colombia"
+    },
+    {
+        "colo": "BOG",
+        "region": "Bogota",
+        "country": "Colombia"
+    },
+    {
+        "colo": "BOM",
+        "region": "Mumbai",
+        "country": "India"
+    },
+    {
+        "colo": "BOS",
+        "region": "Boston",
+        "country": "United States"
+    },
+    {
+        "colo": "BRU",
+        "region": "Brussels",
+        "country": "Belgium"
+    },
+    {
+        "colo": "BSB",
+        "region": "Brasilia",
+        "country": "Brazil"
+    },
+    {
+        "colo": "BSR",
+        "region": "Basra",
+        "country": "Iraq"
+    },
+    {
+        "colo": "BTS",
+        "region": "Bratislava",
+        "country": "Slovakia"
+    },
+    {
+        "colo": "BUD",
+        "region": "Budapest",
+        "country": "Hungary"
+    },
+    {
+        "colo": "BUF",
+        "region": "Buffalo",
+        "country": "United States"
+    },
+    {
+        "colo": "BWN",
+        "region": "Bandar Seri Begawan",
+        "country": "Brunei"
+    },
+    {
+        "colo": "CAI",
+        "region": "Cairo",
+        "country": "Egypt"
+    },
+    {
+        "colo": "CAN",
+        "region": "Guangzhou",
+        "country": "China"
+    },
+    {
+        "colo": "CAW",
+        "region": "Campos dos Goytacazes",
+        "country": "Brazil"
+    },
+    {
+        "colo": "CBR",
+        "region": "Canberra",
+        "country": "Australia"
+    },
+    {
+        "colo": "CCP",
+        "region": "Concepción",
+        "country": "Chile"
+    },
+    {
+        "colo": "CCU",
+        "region": "Kolkata",
+        "country": "India"
+    },
+    {
+        "colo": "CDG",
+        "region": "Paris",
+        "country": "France"
+    },
+    {
+        "colo": "CEB",
+        "region": "Cebu",
+        "country": "Philippines"
+    },
+    {
+        "colo": "CFC",
+        "region": "Caçador",
+        "country": "Brazil"
+    },
+    {
+        "colo": "CFC",
+        "region": "Cacador",
+        "country": "Brazil"
+    },
+    {
+        "colo": "CGB",
+        "region": "Cuiaba",
+        "country": "Brazil"
+    },
+    {
+        "colo": "CGD",
+        "region": "Changde",
+        "country": "China"
+    },
+    {
+        "colo": "CGK",
+        "region": "Jakarta",
+        "country": "Indonesia"
+    },
+    {
+        "colo": "CGO",
+        "region": "Zhengzhou",
+        "country": "China"
+    },
+    {
+        "colo": "CGP",
+        "region": "Chittagong",
+        "country": "Bangladesh"
+    },
+    {
+        "colo": "CGY",
+        "region": "Cagayan de Oro",
+        "country": "Philippines"
+    },
+    {
+        "colo": "CHC",
+        "region": "Christchurch",
+        "country": "New Zealand"
+    },
+    {
+        "colo": "CKG",
+        "region": "Chongqing",
+        "country": "China"
+    },
+    {
+        "colo": "CLE",
+        "region": "Cleveland",
+        "country": "United States"
+    },
+    {
+        "colo": "CLO",
+        "region": "Cali",
+        "country": "Colombia"
+    },
+    {
+        "colo": "CLT",
+        "region": "Charlotte",
+        "country": "United States"
+    },
+    {
+        "colo": "CMB",
+        "region": "Colombo",
+        "country": "Sri Lanka"
+    },
+    {
+        "colo": "CMH",
+        "region": "Columbus",
+        "country": "United States"
+    },
+    {
+        "colo": "CNF",
+        "region": "Belo Horizonte",
+        "country": "Brazil"
+    },
+    {
+        "colo": "CNN",
+        "region": "Kannur",
+        "country": "India"
+    },
+    {
+        "colo": "CNX",
+        "region": "Chiang Mai",
+        "country": "Thailand"
+    },
+    {
+        "colo": "COK",
+        "region": "Kochi",
+        "country": "India"
+    },
+    {
+        "colo": "COR",
+        "region": "Córdoba",
+        "country": "Argentina"
+    },
+    {
+        "colo": "CPH",
+        "region": "Copenhagen",
+        "country": "Denmark"
+    },
+    {
+        "colo": "CPT",
+        "region": "Cape Town",
+        "country": "South Africa"
+    },
+    {
+        "colo": "CRK",
+        "region": "Tarlac City",
+        "country": "Philippines"
+    },
+    {
+        "colo": "CSX",
+        "region": "Changsha",
+        "country": "China"
+    },
+    {
+        "colo": "CWB",
+        "region": "Curitiba",
+        "country": "Brazil"
+    },
+    {
+        "colo": "CZL",
+        "region": "Constantine",
+        "country": "Algeria"
+    },
+    {
+        "colo": "CZX",
+        "region": "Changzhou",
+        "country": "China"
+    },
+    {
+        "colo": "DAC",
+        "region": "Dhaka",
+        "country": "Bangladesh"
+    },
+    {
+        "colo": "DAD",
+        "region": "Da Nang",
+        "country": "Vietnam"
+    },
+    {
+        "colo": "DAR",
+        "region": "Dar Es Salaam",
+        "country": "Tanzania"
+    },
+    {
+        "colo": "DAR",
+        "region": "Dar es Salaam",
+        "country": "Tanzania"
+    },
+    {
+        "colo": "DEL",
+        "region": "New Delhi",
+        "country": "India"
+    },
+    {
+        "colo": "DEN",
+        "region": "Denver",
+        "country": "United States"
+    },
+    {
+        "colo": "DFW",
+        "region": "Dallas",
+        "country": "United States"
+    },
+    {
+        "colo": "DKR",
+        "region": "Dakar",
+        "country": "Senegal"
+    },
+    {
+        "colo": "DLC",
+        "region": "Dalian",
+        "country": "China"
+    },
+    {
+        "colo": "DME",
+        "region": "Moscow",
+        "country": "Russia"
+    },
+    {
+        "colo": "DMM",
+        "region": "Dammam",
+        "country": "Saudi Arabia"
+    },
+    {
+        "colo": "DOH",
+        "region": "Doha",
+        "country": "Qatar"
+    },
+    {
+        "colo": "DPS",
+        "region": "Denpasar",
+        "country": "Indonesia"
+    },
+    {
+        "colo": "DTW",
+        "region": "Detroit",
+        "country": "United States"
+    },
+    {
+        "colo": "DUB",
+        "region": "Dublin",
+        "country": "Ireland"
+    },
+    {
+        "colo": "DUR",
+        "region": "Durban",
+        "country": "South Africa"
+    },
+    {
+        "colo": "DUS",
+        "region": "Düsseldorf",
+        "country": "Germany"
+    },
+    {
+        "colo": "DXB",
+        "region": "Dubai",
+        "country": "United Arab Emirates"
+    },
+    {
+        "colo": "EBB",
+        "region": "Kampala",
+        "country": "Uganda"
+    },
+    {
+        "colo": "EBL",
+        "region": "Erbil",
+        "country": "Iraq"
+    },
+    {
+        "colo": "EVN",
+        "region": "Yerevan",
+        "country": "Armenia"
+    },
+    {
+        "colo": "EWR",
+        "region": "Newark",
+        "country": "United States"
+    },
+    {
+        "colo": "EZE",
+        "region": "Buenos Aires",
+        "country": "Argentina"
+    },
+    {
+        "colo": "FCO",
+        "region": "Rome",
+        "country": "Italy"
+    },
+    {
+        "colo": "FIH",
+        "region": "Kinshasa",
+        "country": "DR Congo"
+    },
+    {
+        "colo": "FLN",
+        "region": "Florianopolis",
+        "country": "Brazil"
+    },
+    {
+        "colo": "FOC",
+        "region": "Fuzhou",
+        "country": "China"
+    },
+    {
+        "colo": "FOR",
+        "region": "Fortaleza",
+        "country": "Brazil"
+    },
+    {
+        "colo": "FRA",
+        "region": "Frankfurt",
+        "country": "Germany"
+    },
+    {
+        "colo": "FRU",
+        "region": "Bishkek",
+        "country": "Kyrgyzstan"
+    },
+    {
+        "colo": "FSD",
+        "region": "Sioux Falls",
+        "country": "United States"
+    },
+    {
+        "colo": "FUK",
+        "region": "Fukuoka",
+        "country": "Japan"
+    },
+    {
+        "colo": "FUO",
+        "region": "Foshan",
+        "country": "China"
+    },
+    {
+        "colo": "GBE",
+        "region": "Gaborone",
+        "country": "Botswana"
+    },
+    {
+        "colo": "GDL",
+        "region": "Guadalajara",
+        "country": "Mexico"
+    },
+    {
+        "colo": "GEO",
+        "region": "Georgetown",
+        "country": "Guyana"
+    },
+    {
+        "colo": "GIG",
+        "region": "Rio de Janeiro",
+        "country": "Brazil"
+    },
+    {
+        "colo": "GND",
+        "region": "St. George's",
+        "country": "Grenada"
+    },
+    {
+        "colo": "GOT",
+        "region": "Gothenburg",
+        "country": "Sweden"
+    },
+    {
+        "colo": "GRU",
+        "region": "São Paulo",
+        "country": "Brazil"
+    },
+    {
+        "colo": "GUA",
+        "region": "Guatemala City",
+        "country": "Guatemala"
+    },
+    {
+        "colo": "GUM",
+        "region": "Hagatna",
+        "country": "Guam"
+    },
+    {
+        "colo": "GVA",
+        "region": "Geneva",
+        "country": "Switzerland"
+    },
+    {
+        "colo": "GYD",
+        "region": "Baku",
+        "country": "Azerbaijan"
+    },
+    {
+        "colo": "GYE",
+        "region": "Guayaquil",
+        "country": "Ecuador"
+    },
+    {
+        "colo": "GYN",
+        "region": "Goiânia",
+        "country": "Brazil"
+    },
+    {
+        "colo": "GYN",
+        "region": "Goiania",
+        "country": "Brazil"
+    },
+    {
+        "colo": "HAK",
+        "region": "Haikou",
+        "country": "China"
+    },
+    {
+        "colo": "HAK",
+        "region": "Chengmai",
+        "country": "China"
+    },
+    {
+        "colo": "HAM",
+        "region": "Hamburg",
+        "country": "Germany"
+    },
+    {
+        "colo": "HAN",
+        "region": "Hanoi",
+        "country": "Vietnam"
+    },
+    {
+        "colo": "HBA",
+        "region": "Hobart",
+        "country": "Australia"
+    },
+    {
+        "colo": "HEL",
+        "region": "Helsinki",
+        "country": "Finland"
+    },
+    {
+        "colo": "HFA",
+        "region": "Haifa",
+        "country": "Israel"
+    },
+    {
+        "colo": "HGH",
+        "region": "Shaoxing",
+        "country": "China"
+    },
+    {
+        "colo": "HKG",
+        "region": "Hong Kong",
+        "country": ""
+    },
+    {
+        "colo": "HNL",
+        "region": "Honolulu",
+        "country": "United States"
+    },
+    {
+        "colo": "HRE",
+        "region": "Harare",
+        "country": "Zimbabwe"
+    },
+    {
+        "colo": "HYD",
+        "region": "Hyderabad",
+        "country": "India"
+    },
+    {
+        "colo": "HYN",
+        "region": "Taizhou",
+        "country": "China"
+    },
+    {
+        "colo": "IAD",
+        "region": "Ashburn",
+        "country": "United States"
+    },
+    {
+        "colo": "IAH",
+        "region": "Houston",
+        "country": "United States"
+    },
+    {
+        "colo": "ICN",
+        "region": "Seoul",
+        "country": "South Korea"
+    },
+    {
+        "colo": "IND",
+        "region": "Indianapolis",
+        "country": "United States"
+    },
+    {
+        "colo": "ISB",
+        "region": "Islamabad",
+        "country": "Pakistan"
+    },
+    {
+        "colo": "IST",
+        "region": "Istanbul",
+        "country": "Turkey"
+    },
+    {
+        "colo": "ISU",
+        "region": "Sulaymaniyah",
+        "country": "Iraq"
+    },
+    {
+        "colo": "IXC",
+        "region": "Chandigarh",
+        "country": "India"
+    },
+    {
+        "colo": "JAX",
+        "region": "Jacksonville",
+        "country": "United States"
+    },
+    {
+        "colo": "JDO",
+        "region": "Juazeiro do Norte",
+        "country": "Brazil"
+    },
+    {
+        "colo": "JED",
+        "region": "Jeddah",
+        "country": "Saudi Arabia"
+    },
+    {
+        "colo": "JHB",
+        "region": "Johor Bahru",
+        "country": "Malaysia"
+    },
+    {
+        "colo": "JIB",
+        "region": "Djibouti City",
+        "country": "Djibouti"
+    },
+    {
+        "colo": "JIB",
+        "region": "Djibouti",
+        "country": "Djibouti"
+    },
+    {
+        "colo": "JNB",
+        "region": "Johannesburg",
+        "country": "South Africa"
+    },
+    {
+        "colo": "JOG",
+        "region": "Yogyakarta",
+        "country": "Indonesia"
+    },
+    {
+        "colo": "JOI",
+        "region": "Joinville",
+        "country": "Brazil"
+    },
+    {
+        "colo": "JXG",
+        "region": "Jiaxing",
+        "country": "China"
+    },
+    {
+        "colo": "KBP",
+        "region": "Kyiv",
+        "country": "Ukraine"
+    },
+    {
+        "colo": "KCH",
+        "region": "Kuching",
+        "country": "Malaysia"
+    },
+    {
+        "colo": "KEF",
+        "region": "Reykjavík",
+        "country": "Iceland"
+    },
+    {
+        "colo": "KGL",
+        "region": "Kigali",
+        "country": "Rwanda"
+    },
+    {
+        "colo": "KHH",
+        "region": "Kaohsiung City",
+        "country": "Taiwan"
+    },
+    {
+        "colo": "KHI",
+        "region": "Karachi",
+        "country": "Pakistan"
+    },
+    {
+        "colo": "KHN",
+        "region": "Xinyu",
+        "country": "China"
+    },
+    {
+        "colo": "KHN",
+        "region": "Nanchang",
+        "country": "China"
+    },
+    {
+        "colo": "KIN",
+        "region": "Kingston",
+        "country": "Jamaica"
+    },
+    {
+        "colo": "KIV",
+        "region": "Chișinău",
+        "country": "Moldova"
+    },
+    {
+        "colo": "KIX",
+        "region": "Osaka",
+        "country": "Japan"
+    },
+    {
+        "colo": "KJA",
+        "region": "Krasnoyarsk",
+        "country": "Russia"
+    },
+    {
+        "colo": "KMG",
+        "region": "Kunming",
+        "country": "China"
+    },
+    {
+        "colo": "KNU",
+        "region": "Kanpur",
+        "country": "India"
+    },
+    {
+        "colo": "KTM",
+        "region": "Kathmandu",
+        "country": "Nepal"
+    },
+    {
+        "colo": "KUL",
+        "region": "Kuala Lumpur",
+        "country": "Malaysia"
+    },
+    {
+        "colo": "KWE",
+        "region": "Guiyang",
+        "country": "China"
+    },
+    {
+        "colo": "KWI",
+        "region": "Kuwait City",
+        "country": "Kuwait"
+    },
+    {
+        "colo": "LAD",
+        "region": "Luanda",
+        "country": "Angola"
+    },
+    {
+        "colo": "LAS",
+        "region": "Las Vegas",
+        "country": "United States"
+    },
+    {
+        "colo": "LAX",
+        "region": "Los Angeles",
+        "country": "United States"
+    },
+    {
+        "colo": "LCA",
+        "region": "Nicosia",
+        "country": "Cyprus"
+    },
+    {
+        "colo": "LED",
+        "region": "Saint Petersburg",
+        "country": "Russia"
+    },
+    {
+        "colo": "LHR",
+        "region": "London",
+        "country": "United Kingdom"
+    },
+    {
+        "colo": "LIM",
+        "region": "Lima",
+        "country": "Peru"
+    },
+    {
+        "colo": "LIS",
+        "region": "Lisbon",
+        "country": "Portugal"
+    },
+    {
+        "colo": "LLK",
+        "region": "Astara",
+        "country": "Azerbaijan"
+    },
+    {
+        "colo": "LLW",
+        "region": "Lilongwe",
+        "country": "Malawi"
+    },
+    {
+        "colo": "LOS",
+        "region": "Lagos",
+        "country": "Nigeria"
+    },
+    {
+        "colo": "LPB",
+        "region": "La Paz",
+        "country": "Bolivia"
+    },
+    {
+        "colo": "LUN",
+        "region": "Lusaka",
+        "country": "Zambia"
+    },
+    {
+        "colo": "LUX",
+        "region": "Luxembourg City",
+        "country": "Luxembourg"
+    },
+    {
+        "colo": "LYS",
+        "region": "Lyon",
+        "country": "France"
+    },
+    {
+        "colo": "MAA",
+        "region": "Chennai",
+        "country": "India"
+    },
+    {
+        "colo": "MAD",
+        "region": "Madrid",
+        "country": "Spain"
+    },
+    {
+        "colo": "MAN",
+        "region": "Manchester",
+        "country": "United Kingdom"
+    },
+    {
+        "colo": "MAO",
+        "region": "Manaus",
+        "country": "Brazil"
+    },
+    {
+        "colo": "MBA",
+        "region": "Mombasa",
+        "country": "Kenya"
+    },
+    {
+        "colo": "MCI",
+        "region": "Kansas City",
+        "country": "United States"
+    },
+    {
+        "colo": "MCT",
+        "region": "Muscat",
+        "country": "Oman"
+    },
+    {
+        "colo": "MDE",
+        "region": "Medellín",
+        "country": "Colombia"
+    },
+    {
+        "colo": "MEL",
+        "region": "Melbourne",
+        "country": "Australia"
+    },
+    {
+        "colo": "MEM",
+        "region": "Memphis",
+        "country": "United States"
+    },
+    {
+        "colo": "MEX",
+        "region": "Mexico City",
+        "country": "Mexico"
+    },
+    {
+        "colo": "MFM",
+        "region": "Macau",
+        "country": ""
+    },
+    {
+        "colo": "MIA",
+        "region": "Miami",
+        "country": "United States"
+    },
+    {
+        "colo": "MLE",
+        "region": "Malé",
+        "country": "Maldives"
+    },
+    {
+        "colo": "MLE",
+        "region": "Male",
+        "country": "Maldives"
+    },
+    {
+        "colo": "MLG",
+        "region": "Malang",
+        "country": "Indonesia"
+    },
+    {
+        "colo": "MNL",
+        "region": "Manila",
+        "country": "Philippines"
+    },
+    {
+        "colo": "MPM",
+        "region": "Maputo",
+        "country": "Mozambique"
+    },
+    {
+        "colo": "MRS",
+        "region": "Marseille",
+        "country": "France"
+    },
+    {
+        "colo": "MRU",
+        "region": "Port Louis",
+        "country": "Mauritius"
+    },
+    {
+        "colo": "MSP",
+        "region": "Minneapolis",
+        "country": "United States"
+    },
+    {
+        "colo": "MSQ",
+        "region": "Minsk",
+        "country": "Belarus"
+    },
+    {
+        "colo": "MUC",
+        "region": "Munich",
+        "country": "Germany"
+    },
+    {
+        "colo": "MXP",
+        "region": "Milan",
+        "country": "Italy"
+    },
+    {
+        "colo": "NAG",
+        "region": "Nagpur",
+        "country": "India"
+    },
+    {
+        "colo": "NBO",
+        "region": "Nairobi",
+        "country": "Kenya"
+    },
+    {
+        "colo": "NJF",
+        "region": "Najaf",
+        "country": "Iraq"
+    },
+    {
+        "colo": "NNG",
+        "region": "Nanning",
+        "country": "China"
+    },
+    {
+        "colo": "NOU",
+        "region": "Noumea",
+        "country": "New Caledonia"
+    },
+    {
+        "colo": "NQN",
+        "region": "Neuquén",
+        "country": "Argentina"
+    },
+    {
+        "colo": "NQN",
+        "region": "Neuquen",
+        "country": "Argentina"
+    },
+    {
+        "colo": "NQZ",
+        "region": "Astana",
+        "country": "Kazakhstan"
+    },
+    {
+        "colo": "NRT",
+        "region": "Tokyo",
+        "country": "Japan"
+    },
+    {
+        "colo": "NVT",
+        "region": "Timbó",
+        "country": "Brazil"
+    },
+    {
+        "colo": "NVT",
+        "region": "Timbo",
+        "country": "Brazil"
+    },
+    {
+        "colo": "OKA",
+        "region": "Naha",
+        "country": "Japan"
+    },
+    {
+        "colo": "OKC",
+        "region": "Oklahoma City",
+        "country": "United States"
+    },
+    {
+        "colo": "OMA",
+        "region": "Omaha",
+        "country": "United States"
+    },
+    {
+        "colo": "ORD",
+        "region": "Chicago",
+        "country": "United States"
+    },
+    {
+        "colo": "ORF",
+        "region": "Norfolk",
+        "country": "United States"
+    },
+    {
+        "colo": "ORN",
+        "region": "Oran",
+        "country": "Algeria"
+    },
+    {
+        "colo": "OSL",
+        "region": "Oslo",
+        "country": "Norway"
+    },
+    {
+        "colo": "OTP",
+        "region": "Bucharest",
+        "country": "Romania"
+    },
+    {
+        "colo": "OUA",
+        "region": "Ouagadougou",
+        "country": "Burkina Faso"
+    },
+    {
+        "colo": "PAT",
+        "region": "Patna",
+        "country": "India"
+    },
+    {
+        "colo": "PBH",
+        "region": "Thimphu",
+        "country": "Bhutan"
+    },
+    {
+        "colo": "PBM",
+        "region": "Paramaribo",
+        "country": "Suriname"
+    },
+    {
+        "colo": "PDX",
+        "region": "Portland",
+        "country": "United States"
+    },
+    {
+        "colo": "PER",
+        "region": "Perth",
+        "country": "Australia"
+    },
+    {
+        "colo": "PHL",
+        "region": "Philadelphia",
+        "country": "United States"
+    },
+    {
+        "colo": "PHX",
+        "region": "Phoenix",
+        "country": "United States"
+    },
+    {
+        "colo": "PIT",
+        "region": "Pittsburgh",
+        "country": "United States"
+    },
+    {
+        "colo": "PKX",
+        "region": "Langfang",
+        "country": "China"
+    },
+    {
+        "colo": "PMO",
+        "region": "Palermo",
+        "country": "Italy"
+    },
+    {
+        "colo": "PMW",
+        "region": "Palmas",
+        "country": "Brazil"
+    },
+    {
+        "colo": "PNH",
+        "region": "Phnom Penh",
+        "country": "Cambodia"
+    },
+    {
+        "colo": "POA",
+        "region": "Porto Alegre",
+        "country": "Brazil"
+    },
+    {
+        "colo": "POS",
+        "region": "Port of Spain",
+        "country": "Trinidad and Tobago"
+    },
+    {
+        "colo": "PPT",
+        "region": "Tahiti",
+        "country": "French Polynesia"
+    },
+    {
+        "colo": "PRG",
+        "region": "Prague",
+        "country": "Czech Republic"
+    },
+    {
+        "colo": "PTY",
+        "region": "Panama City",
+        "country": "Panama"
+    },
+    {
+        "colo": "QRO",
+        "region": "Queretaro",
+        "country": "Mexico"
+    },
+    {
+        "colo": "QWJ",
+        "region": "Americana",
+        "country": "Brazil"
+    },
+    {
+        "colo": "RAO",
+        "region": "Ribeirao Preto",
+        "country": "Brazil"
+    },
+    {
+        "colo": "RDU",
+        "region": "Durham",
+        "country": "United States"
+    },
+    {
+        "colo": "REC",
+        "region": "Recife",
+        "country": "Brazil"
+    },
+    {
+        "colo": "RIC",
+        "region": "Richmond",
+        "country": "United States"
+    },
+    {
+        "colo": "RIX",
+        "region": "Riga",
+        "country": "Latvia"
+    },
+    {
+        "colo": "RUH",
+        "region": "Riyadh",
+        "country": "Saudi Arabia"
+    },
+    {
+        "colo": "RUN",
+        "region": "Saint-Denis",
+        "country": "Réunion"
+    },
+    {
+        "colo": "SAN",
+        "region": "San Diego",
+        "country": "United States"
+    },
+    {
+        "colo": "SAP",
+        "region": "San Pedro Sula",
+        "country": "Honduras"
+    },
+    {
+        "colo": "SAT",
+        "region": "San Antonio",
+        "country": "United States"
+    },
+    {
+        "colo": "SCL",
+        "region": "Santiago",
+        "country": "Chile"
+    },
+    {
+        "colo": "SDQ",
+        "region": "Santo Domingo",
+        "country": "Dominican Republic"
+    },
+    {
+        "colo": "SEA",
+        "region": "Seattle",
+        "country": "United States"
+    },
+    {
+        "colo": "SFO",
+        "region": "San Francisco",
+        "country": "United States"
+    },
+    {
+        "colo": "SGN",
+        "region": "Ho Chi Minh City",
+        "country": "Vietnam"
+    },
+    {
+        "colo": "SHA",
+        "region": "Shanghai",
+        "country": "China"
+    },
+    {
+        "colo": "SIN",
+        "region": "Singapore",
+        "country": "Singapore"
+    },
+    {
+        "colo": "SJC",
+        "region": "San Jose",
+        "country": "United States"
+    },
+    {
+        "colo": "SJK",
+        "region": "São José dos Campos",
+        "country": "Brazil"
+    },
+    {
+        "colo": "SJO",
+        "region": "San José",
+        "country": "Costa Rica"
+    },
+    {
+        "colo": "SJP",
+        "region": "São José do Rio Preto",
+        "country": "Brazil"
+    },
+    {
+        "colo": "SJU",
+        "region": "San Juan",
+        "country": "Puerto Rico"
+    },
+    {
+        "colo": "SJW",
+        "region": "Hengshui",
+        "country": "China"
+    },
+    {
+        "colo": "SJW",
+        "region": "Shijiazhuang",
+        "country": "China"
+    },
+    {
+        "colo": "SKG",
+        "region": "Thessaloniki",
+        "country": "Greece"
+    },
+    {
+        "colo": "SKP",
+        "region": "Skopje",
+        "country": "North Macedonia"
+    },
+    {
+        "colo": "SLC",
+        "region": "Salt Lake City",
+        "country": "United States"
+    },
+    {
+        "colo": "SMF",
+        "region": "Sacramento",
+        "country": "United States"
+    },
+    {
+        "colo": "SOD",
+        "region": "Sorocaba",
+        "country": "Brazil"
+    },
+    {
+        "colo": "SOF",
+        "region": "Sofia",
+        "country": "Bulgaria"
+    },
+    {
+        "colo": "SSA",
+        "region": "Salvador",
+        "country": "Brazil"
+    },
+    {
+        "colo": "STI",
+        "region": "Santiago de los Caballeros",
+        "country": "Dominican Republic"
+    },
+    {
+        "colo": "STL",
+        "region": "St. Louis",
+        "country": "United States"
+    },
+    {
+        "colo": "STR",
+        "region": "Stuttgart",
+        "country": "Germany"
+    },
+    {
+        "colo": "SUV",
+        "region": "Suva",
+        "country": "Fiji"
+    },
+    {
+        "colo": "SYD",
+        "region": "Sydney",
+        "country": "Australia"
+    },
+    {
+        "colo": "SZX",
+        "region": "Shenzhen",
+        "country": "China"
+    },
+    {
+        "colo": "TAO",
+        "region": "Qingdao",
+        "country": "China"
+    },
+    {
+        "colo": "TBS",
+        "region": "Tbilisi",
+        "country": "Georgia"
+    },
+    {
+        "colo": "TEN",
+        "region": "Tongren",
+        "country": "China"
+    },
+    {
+        "colo": "TGU",
+        "region": "Tegucigalpa",
+        "country": "Honduras"
+    },
+    {
+        "colo": "TIA",
+        "region": "Tirana",
+        "country": "Albania"
+    },
+    {
+        "colo": "TLH",
+        "region": "Tallahassee",
+        "country": "United States"
+    },
+    {
+        "colo": "TLL",
+        "region": "Tallinn",
+        "country": "Estonia"
+    },
+    {
+        "colo": "TLV",
+        "region": "Tel Aviv",
+        "country": "Israel"
+    },
+    {
+        "colo": "TNA",
+        "region": "Jinan",
+        "country": "China"
+    },
+    {
+        "colo": "TNA",
+        "region": "Zibo",
+        "country": "China"
+    },
+    {
+        "colo": "TNR",
+        "region": "Antananarivo",
+        "country": "Madagascar"
+    },
+    {
+        "colo": "TPA",
+        "region": "Tampa",
+        "country": "United States"
+    },
+    {
+        "colo": "TPE",
+        "region": "Taipei",
+        "country": ""
+    },
+    {
+        "colo": "TUN",
+        "region": "Tunis",
+        "country": "Tunisia"
+    },
+    {
+        "colo": "TXL",
+        "region": "Berlin",
+        "country": "Germany"
+    },
+    {
+        "colo": "TYN",
+        "region": "Yangquan",
+        "country": "China"
+    },
+    {
+        "colo": "UDI",
+        "region": "Uberlândia",
+        "country": "Brazil"
+    },
+    {
+        "colo": "UDI",
+        "region": "Uberlandia",
+        "country": "Brazil"
+    },
+    {
+        "colo": "UIO",
+        "region": "Quito",
+        "country": "Ecuador"
+    },
+    {
+        "colo": "ULN",
+        "region": "Ulaanbaatar",
+        "country": "Mongolia"
+    },
+    {
+        "colo": "URT",
+        "region": "Surat Thani",
+        "country": "Thailand"
+    },
+    {
+        "colo": "VCP",
+        "region": "Campinas",
+        "country": "Brazil"
+    },
+    {
+        "colo": "VIE",
+        "region": "Vienna",
+        "country": "Austria"
+    },
+    {
+        "colo": "VIX",
+        "region": "Vitoria",
+        "country": "Brazil"
+    },
+    {
+        "colo": "VNO",
+        "region": "Vilnius",
+        "country": "Lithuania"
+    },
+    {
+        "colo": "VTE",
+        "region": "Vientiane",
+        "country": "Laos"
+    },
+    {
+        "colo": "WAW",
+        "region": "Warsaw",
+        "country": "Poland"
+    },
+    {
+        "colo": "WDH",
+        "region": "Windhoek",
+        "country": "Namibia"
+    },
+    {
+        "colo": "XAP",
+        "region": "Chapeco",
+        "country": "Brazil"
+    },
+    {
+        "colo": "XFN",
+        "region": "Xiangyang",
+        "country": "China"
+    },
+    {
+        "colo": "XIY",
+        "region": "Baoji",
+        "country": "China"
+    },
+    {
+        "colo": "XNH",
+        "region": "Nasiriyah",
+        "country": "Iraq"
+    },
+    {
+        "colo": "XNN",
+        "region": "Xining",
+        "country": "China"
+    },
+    {
+        "colo": "YHZ",
+        "region": "Halifax",
+        "country": "Canada"
+    },
+    {
+        "colo": "YOW",
+        "region": "Ottawa",
+        "country": "Canada"
+    },
+    {
+        "colo": "YUL",
+        "region": "Montréal",
+        "country": "Canada"
+    },
+    {
+        "colo": "YVR",
+        "region": "Vancouver",
+        "country": "Canada"
+    },
+    {
+        "colo": "YWG",
+        "region": "Winnipeg",
+        "country": "Canada"
+    },
+    {
+        "colo": "YXE",
+        "region": "Saskatoon",
+        "country": "Canada"
+    },
+    {
+        "colo": "YYC",
+        "region": "Calgary",
+        "country": "Canada"
+    },
+    {
+        "colo": "YYZ",
+        "region": "Toronto",
+        "country": "Canada"
+    },
+    {
+        "colo": "ZAG",
+        "region": "Zagreb",
+        "country": "Croatia"
+    },
+    {
+        "colo": "ZDM",
+        "region": "Ramallah",
+        "country": ""
+    },
+    {
+        "colo": "ZRH",
+        "region": "Zurich",
+        "country": "Switzerland"
+    }
+]
